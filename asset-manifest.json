@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Four-Card-FrontendMentor/static/css/main.23a814a4.css",
+    "main.js": "/Four-Card-FrontendMentor/static/js/main.20d8e256.js",
+    "index.html": "/Four-Card-FrontendMentor/index.html",
+    "main.23a814a4.css.map": "/Four-Card-FrontendMentor/static/css/main.23a814a4.css.map",
+    "main.20d8e256.js.map": "/Four-Card-FrontendMentor/static/js/main.20d8e256.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23a814a4.css",
+    "static/js/main.20d8e256.js"
+  ]
+}
